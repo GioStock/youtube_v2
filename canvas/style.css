@@ -64,9 +64,9 @@ h1, h2, h3, h4, h5, h6{
     transition: 0.5s;
 }
 .banner button:hover{
-    background-color: #c691e6;
-    color: #040018;
-    box-shadow: 0 0 50px #c691e6;
+    background-color: #d53251;
+    color: #ffffff;
+    box-shadow: 0 0 50px #324ad5;
     
 }
 h1{
